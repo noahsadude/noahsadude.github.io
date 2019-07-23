@@ -6,6 +6,7 @@ I work in an environment that has stripped the words "growth mindset" of any rea
 
 - I can, for I must, therefore I will.
 - Struggle creates skill.
+
 * *Why do we even like threes, anyway? Let's not take ourselves too seriously.
 
 In the words of someone the internet does not remember:
