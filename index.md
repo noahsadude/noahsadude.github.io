@@ -8,4 +8,5 @@ I work in an environment that has stripped the words "growth mindset" of any rea
 - The strong are only strong because they have met adversity.
 
 #Let's make this front page thing useful, as well as inspiring. Here are some links:
+
 [Markdown cheat sheet](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
