@@ -1,6 +1,7 @@
 ## It's a horrible username, but what can you do?
 
 #Growth mindset:
+
 I work in an environment that has stripped the words "growth mindset" of any real meaning, so to strip the concept down and remove all trace of not-clarity, here are three brutally simple concepts to encapsulate it's essence:
 
 - I can, for I must, therefore I will.
