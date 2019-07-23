@@ -8,7 +8,8 @@ I work in an environment that has removed meaning from the words "growth mindset
 
 - I can, for I must, therefore I will.
 - Struggle creates skill.
-*Why do we even like threes, anyway? Let's not take ourselves too seriously.
+
+Also, I code to make it so that I don't have to math. Please don't make me math hard. It breaks.
 
 In the words of someone the internet does not remember:
 > Tell me and I forget,
