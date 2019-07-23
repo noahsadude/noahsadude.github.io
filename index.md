@@ -8,6 +8,7 @@ I work in an environment that has removed meaning from the words "growth mindset
 
 - I can, for I must, therefore I will.
 - Struggle creates skill.
+- You are who you choose to be. So choose.
 
 Also, I code to make it so that I don't have to math. Please don't make me math hard. It breaks.
 
