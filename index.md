@@ -15,4 +15,5 @@ involve me and I learn.
 
 #Let's make this front page thing useful, as well as inspiring. Here are some links:
 
+[Some crap I've just put together](https://github.com/noahsadude)
 [Markdown cheat sheet](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
