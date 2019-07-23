@@ -18,7 +18,7 @@ teach me and I remember,
 involve me and I learn.
 
 
-###### Let's make this front page thing useful, as well as inspiring. Here are some links:
+##### Let's make this front page thing useful, as well as inspiring. Here are some links:
 
 [Some crap I've just put together](https://github.com/noahsadude)
 
