@@ -6,7 +6,7 @@ I began my path into programming fairly young, but always found it a little too 
 
 I started at @codefellows partly out of the desire to really kick my ability to leverage myself into high gear, but also partly out of fear. I realized that with the advances in machine learning and AI in general, my job as an analyst is going to rapidly change ([an excellent discussion on this here](https://www.kaushik.net/avinash/artificial-intelligence-machine-learning-implications-marketing-analytics/)). 
 
-*My goal is to transition away from the guy building the thing that gives the insights into the guy that builds the thing that builds the thing that gives the insights.
+*My goal is to transition away from the guy building the thing that gives the insights into the guy that builds the thing that builds the thing that gives the insights.*
 
 Also, I code to make it so that I don't have to math. Please don't make me math hard. It breaks.
 
