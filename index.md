@@ -22,6 +22,6 @@ involve me and I learn.
 
 [Some crap I've just put together](https://github.com/noahsadude)
 
-[A secret (but not so secret) page](https://noahsadude.github.io/new-file)
+[Things I'm learning (in no particular order)](https://noahsadude.github.io/learning-journal)
 
 [Markdown cheat sheet](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
