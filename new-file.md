@@ -1,1 +1,0 @@
-So, get this. I'm riding on the bus, looking at cool stuff that GitHub does, when I realize I can create whole new files under my GitHub Page! So this is one of those. I'm gonna go figure out how to link to it now. Whoo!
