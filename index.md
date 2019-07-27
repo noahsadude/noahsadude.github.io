@@ -10,25 +10,11 @@ I started at @codefellows partly out of the desire to really kick my ability to 
 
 Also, I code to make it so that I don't have to math. Please don't make me math hard. It breaks.
 
-##### The Growth Mindset
+##### Learning Journal
 
-I work in an environment that has removed meaning from the words "growth mindset", so to strip the concept down and remove all trace of not-clarity, here are three brutally simple concepts to encapsulate it's essence:
-
-- I can, for I must, therefore I will.
-- Struggle creates skill.
-- You are who you choose to be. So choose.
-
-My answer:
-
-- I will, for I can, therefore I must.
-- Skill is useless without struggle.
-- I... choose.
-
-In the words of someone the internet does not remember:
-> Tell me and I forget,
-teach me and I remember,
-involve me and I learn.
-
+[Markdown fundamentals](https://github.com/noahsadude/Learning-Journal/blob/master/Markdown_fundamentals.md)
+[Git & GitHub](https://github.com/noahsadude/Learning-Journal/blob/master/Git%26GitHub.md)
+[The Terminal](https://github.com/noahsadude/Learning-Journal/blob/master/the_terminal.md)
 
 ##### Let's make this front page thing useful, as well as inspiring. Here are some links:
 
