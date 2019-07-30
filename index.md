@@ -13,7 +13,9 @@ Also, I code to make it so that I don't have to math. Please don't make me math 
 ##### Learning Journal
 
 [Markdown fundamentals](https://github.com/noahsadude/Learning-Journal/blob/master/Markdown_fundamentals.md)
+
 [Git & GitHub](https://github.com/noahsadude/Learning-Journal/blob/master/Git%26GitHub.md)
+
 [The Terminal](https://github.com/noahsadude/Learning-Journal/blob/master/the_terminal.md)
 
 ##### Let's make this front page thing useful, as well as inspiring. Here are some links:
