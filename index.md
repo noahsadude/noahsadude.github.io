@@ -22,6 +22,4 @@ Also, I code to make it so that I don't have to math. Please don't make me math 
 
 [Some stuff I've done](https://github.com/noahsadude)
 
-[Things I'm learning (in no particular order)](https://noahsadude.github.io/learning-journal)
-
 [Markdown cheat sheet](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
